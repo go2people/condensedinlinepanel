@@ -12,7 +12,7 @@ from setuptools import setup, find_packages
 
 
 setup(
-    name='wagtail-condensedinlinepanel',
+    name='condensedinlinepanel',
     version=__version__,
     description='',
     author='Karl Hobley',
